@@ -1,7 +1,10 @@
 {
     "leaderboard": [
-        { "udid": "12345", "bestScore": 100 },
-        { "udid": "67890", "bestScore": 80 },
-        { "udid": "ABCDE", "bestScore": 50 }
+        { "udid": "12345", "bestScore": 140 },
+        { "udid": "67890", "bestScore": 83 },
+        { "udid": "ABCDE", "bestScore": 54 },
+        { "udid": "AB2DE", "bestScore": 23 },
+        { "udid": "ABCD1", "bestScore": 18 },
+        { "udid": "ABCDE", "bestScore": 48 }
     ]
 }
